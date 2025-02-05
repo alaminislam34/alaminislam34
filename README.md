@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Sleeping</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm exploring: Next Js<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Sleeping</p>
 
 ###
 
