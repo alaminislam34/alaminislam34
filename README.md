@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I’m a highly focused and hardworking individual, always driven to improve and push boundaries. I thrive on challenges and constantly seek opportunities to innovate. My passion lies in creating something unique, and I’m committed to achieving excellence in everything I do.</p>
+<p align="left">I am a detail-oriented and ambitious developer, constantly striving for growth and innovation. Challenges fuel my creativity, and I am always eager to explore new technologies that push the boundaries of what's possible. My passion lies in crafting unique and efficient solutions, ensuring excellence in every project I undertake.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm exploring: Next Js<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Sleeping</p>
+<p align="left">🛠️ Building & Debugging since<br> 📖 Currently Exploring: Advanced Next.js<br>🎯 Goal: Transitioning to a **Full-Stack Developer**  <br>🎲 Fun Fact: I write better code at **midnight than in the morning** 😆</p>
 
 ###
 
