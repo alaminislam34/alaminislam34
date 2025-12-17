@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/nNs2QvrZ/Gbanner.png" height="300" alt="GitHub Banner" style="border-radius:16px; box-shadow:0 10px 25px rgba(0,0,0,0.25);" />
+  <img src="[https://i.ibb.co.com/nNs2QvrZ/Gbanner.png](https://i.ibb.co.com/2DNvKZ3/cover.png)" height="300" alt="GitHub Banner" style="border-radius:16px; box-shadow:0 10px 25px rgba(0,0,0,0.25);" />
 </div>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">MD Al Amin Islam</h1>
