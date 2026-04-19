@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">MD Al Amin Islam</h1>
-<p align="center" style="font-size:18px; color:#6c6c6c;">🌐 Junior Front-End Developer | Aspiring Full-Stack Developer</p>
+<p align="center" style="font-size:18px; color:#6c6c6c;">🌐 Junior Full Stack Developer | PERN Stack Specialist</p>
 
 ---
 
