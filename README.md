@@ -23,21 +23,28 @@ I am a detail-oriented and ambitious developer passionate about crafting scalabl
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
+  
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  
   <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="PostgreSQL" />
+  
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+  
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
 </div>
-
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
