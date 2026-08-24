@@ -1,61 +1,75 @@
-# 👋 Hi, I'm MD Al Amin Islam
+👋 Hi, I'm MD Al Amin Islam
 
 <div align="center">
 
-<img src="https://i.ibb.co/fzZ27XCw/Chat-GPT-Image-Aug-24-2026-12-13-16-PM.png" width="100%" alt="MD Al Amin Islam - Full Stack Developer" />
+<img
+src="https://i.ibb.co/fzZ27XCw/Chat-GPT-Image-Aug-24-2026-12-13-16-PM.png"
+width="100%"
+alt="MD Al Amin Islam - Full Stack Developer"
+/>
 
 <br />
 
-### Full Stack Developer · PERN Stack Specialist · Software Engineer
+Full Stack Developer · PERN Stack Specialist · Software Engineer
 
-**Building scalable web applications, intuitive interfaces, and reliable backend systems.**
+Building scalable web applications, intuitive interfaces, and reliable backend systems.
 
 <br />
 
 <a href="https://alamin4.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-06B6D4?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Portfolio" />
 </a>
-&nbsp;
 <a href="https://github.com/alaminislam34">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/alamin34/">
-<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
 </a>
 
 </div>
 
 <br />
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+I'm a Full Stack Developer focused on building modern, scalable, and production-ready web applications.
 
-I'm a **Full Stack Developer** who enjoys turning ideas into production-ready digital products.
+I work across the complete development lifecycle, from responsive frontend interfaces and reusable component systems to backend APIs, database architecture, authentication, real-time features, and deployment.
 
-My work spans the complete development lifecycle, from designing responsive interfaces and building reusable frontend systems to developing APIs, database architectures, real-time features, authentication, and deployment workflows.
+I enjoy solving real-world problems and turning ideas into reliable digital products.
 
-I focus on writing software that is:
+⚡ What I Do
 
-> **Clean · Scalable · Maintainable · Secure · User-Focused**
+Area
 
-### ⚡ What I Do
+Focus
 
-| Area                         | Focus                                                     |
-| :--------------------------- | :-------------------------------------------------------- |
-| 🎨 **Frontend Engineering**  | Modern, responsive, accessible user interfaces            |
-| ⚙️ **Backend Development**   | REST APIs, authentication, business logic & integrations  |
-| 🗄️ **Database Engineering** | PostgreSQL, Prisma, MongoDB & data modeling               |
-| 🔄 **Real-Time Systems**     | WebSockets, Socket.IO & real-time notifications           |
-| 🚀 **Deployment**            | Docker, CI/CD, cloud deployment & production environments |
-| 🧩 **Architecture**          | Reusable components, scalable APIs & maintainable code    |
+🎨 Frontend Engineering
 
----
+Modern, responsive and accessible interfaces
 
-## 🧠 Engineering Mindset
+⚙️ Backend Development
 
-```text
+REST APIs, authentication, business logic and integrations
+
+🗄️ Database Engineering
+
+PostgreSQL, Prisma, MongoDB and data modeling
+
+🔄 Real-Time Systems
+
+WebSockets, Socket.IO and real-time notifications
+
+🚀 Deployment
+
+Docker, CI/CD, cloud deployment and production environments
+
+🧩 Architecture
+
+Reusable components, scalable APIs and maintainable systems
+
+🧠 Engineering Mindset
+
 Understand the Problem
         ↓
 Design the Solution
@@ -69,254 +83,260 @@ Optimize Performance
 Deploy to Production
         ↓
 Monitor & Improve
-```
 
-I don't believe in writing code simply to make a feature "work."
+Clean · Scalable · Maintainable · Secure · User-Focused
 
-The goal is to build software that remains understandable and maintainable after the excitement of the first deployment disappears.
+🛠️ Technology Stack
 
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
+🎨 Frontend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
-**Core:** Next.js · React · TypeScript · JavaScript · Tailwind CSS
+Core: Next.js · React · TypeScript · JavaScript · Tailwind CSS
 
-**Frontend Practices:**
-Responsive Design · Component Architecture · SSR · API Integration · Form Validation · State Management · Performance Optimization
+Practices: Responsive Design · Component Architecture · SSR · API Integration · Form Validation · State Management · Performance Optimization
 
----
-
-### ⚙️ Backend
+⚙️ Backend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" alt="Backend technologies" />
 </p>
 
-**Core:** Node.js · Express.js · TypeScript
+Core: Node.js · Express.js · TypeScript
 
-**Backend Practices:**
-REST APIs · Authentication · Authorization · API Validation · Error Handling · WebSockets · Business Logic
+Practices: REST APIs · Authentication · Authorization · Validation · Error Handling · WebSockets · Business Logic
 
----
-
-### 🗄️ Database & ORM
+🗄️ Database & ORM
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Database and ORM technologies" />
 </p>
 
-**Database:** PostgreSQL · MongoDB
+Database: PostgreSQL · MongoDB
 
-**ORM / Data Layer:** Prisma
+ORM / Data Layer: Prisma
 
-**Focus:**
-Database Design · Relationships · Query Optimization · Transactions · Data Validation
+Focus: Database Design · Relationships · Query Optimization · Transactions · Data Validation
 
----
-
-### 🚀 DevOps & Tools
+🚀 DevOps & Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,linux,postman,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,linux,postman,vscode" alt="DevOps and development tools" />
 </p>
 
-**Tools:** Git · GitHub · Docker · GitHub Actions · AWS · Linux · Postman · VS Code
+Tools: Git · GitHub · Docker · GitHub Actions · AWS · Linux · Postman · VS Code
 
----
-
-## ✨ Core Strengths
-
-<div align="center">
-
-|      🚀 Full Stack     |     ⚡ Performance     | 🧱 Scalable Architecture |
-| :--------------------: | :-------------------: | :----------------------: |
-| End-to-end development | Fast & optimized apps |   Maintainable systems   |
-
-|        🔐 Secure APIs       |      🎨 Modern UI     |  🔄 Real-Time Systems  |
-| :-------------------------: | :-------------------: | :--------------------: |
-| Authentication & validation | Responsive interfaces | WebSocket applications |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🩸 Blood Donation Management Platform
-
-A full-stack platform designed to connect blood donors and recipients while simplifying blood-request management and communication.
-
-### Key Features
-
-* 🔐 Authentication & authorization
-* 🩸 Blood donor and recipient management
-* 📢 Blood request management
-* 🔔 Real-time notifications
-* 💬 Real-time communication
-* 🔎 Search and filtering
-* 🛡️ Secure API architecture
-* 📱 Responsive user interface
-
-**Stack**
-
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Socket.IO`
-
----
-
-## 📊 People-Cost Calculator
-
-A data-driven application designed to calculate staffing costs and present business insights through interactive analytics.
-
-### Key Features
-
-* 📈 Dynamic calculations
-* 📊 Interactive charts
-* 🧮 Automated cost analysis
-* 🎨 Responsive dashboard
-* 🧩 Reusable UI components
-* ⚡ Optimized user interactions
-
-**Stack**
-
-`React` `TypeScript` `Node.js` `Tailwind CSS`
-
----
-
-## 💬 Real-Time Chat Application
-
-A real-time communication platform built around instant messaging and live user presence.
-
-### Key Features
-
-* 💬 Real-time messaging
-* 🟢 Online/offline status
-* 🔄 WebSocket communication
-* 👤 User presence
-* 📱 Responsive interface
-* ⚡ Instant message updates
-
-**Stack**
-
-`React` `Node.js` `Socket.IO` `MongoDB`
-
----
-
-## 🌐 Personal Portfolio
-
-A modern developer portfolio designed to showcase projects, technical expertise, and professional experience.
-
-### Key Features
-
-* 🎨 Modern responsive UI
-* 📱 Mobile-first design
-* 🚀 Fast page performance
-* 🧩 Dynamic project sections
-* 📊 GitHub integration
-* 🌙 Modern visual system
-
-**Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-**Live:**
-🌐 https://alamin4.vercel.app
-
----
-
-# 🏗️ What I Build
+✨ Core Strengths
 
 <div align="center">
 
 <table width="100%">
 <tr>
-
 <td width="33%" align="center">
 
-### 🌐 Web Apps
+🚀 Full Stack
 
-Scalable full-stack applications with modern frontend and backend architecture.
+End-to-end application development across frontend, backend and database layers.
 
 </td>
-
 <td width="33%" align="center">
 
-### 📊 Dashboards
+⚡ Performance
 
-Data-driven dashboards with analytics, tables, charts and role-based access.
+Optimized rendering, efficient APIs and smooth user experiences.
 
 </td>
-
 <td width="33%" align="center">
 
-### 🔄 Real-Time Apps
+🧱 Architecture
 
-Chat systems, notifications, live updates and WebSocket-powered experiences.
+Reusable components and maintainable systems designed for growth.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="33%" align="center">
 
-### 🔐 Backend APIs
+🔐 Security
 
-Secure and maintainable REST APIs with validation and authentication.
+Authentication, authorization, validation and secure API design.
 
 </td>
-
 <td width="33%" align="center">
 
-### 💳 Business Systems
+🎨 UI Engineering
 
-Applications involving users, payments, subscriptions and business workflows.
+Responsive interfaces with clean, modern user experiences.
 
 </td>
-
 <td width="33%" align="center">
 
-### ☁️ Production Apps
+🔄 Real-Time
 
-Containerized applications with CI/CD and cloud deployment workflows.
+Live communication, notifications and WebSocket-powered systems.
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
----
+🚀 Featured Projects
 
-# 📈 GitHub Analytics
+🩸 Blood Donation Management Platform
+
+A full-stack platform designed to connect blood donors and recipients while simplifying blood-request management and communication.
+
+Key Features
+
+🔐 Authentication & authorization
+
+🩸 Blood donor and recipient management
+
+📢 Blood request management
+
+🔔 Real-time notifications
+
+💬 Real-time communication
+
+🔎 Search and filtering
+
+🛡️ Secure API architecture
+
+📱 Responsive user interface
+
+Stack: Next.js TypeScript Node.js PostgreSQL Prisma Socket.IO
+
+📊 People-Cost Calculator
+
+A data-driven application designed to calculate staffing costs and present business insights through interactive analytics.
+
+Key Features
+
+📈 Dynamic calculations
+
+📊 Interactive charts
+
+🧮 Automated cost analysis
+
+🎨 Responsive dashboard
+
+🧩 Reusable UI components
+
+⚡ Optimized interactions
+
+Stack: React TypeScript Node.js Tailwind CSS
+
+💬 Real-Time Chat Application
+
+A real-time communication platform built around instant messaging and live user presence.
+
+Key Features
+
+💬 Real-time messaging
+
+🟢 Online/offline status
+
+🔄 WebSocket communication
+
+👤 User presence
+
+📱 Responsive interface
+
+⚡ Instant message updates
+
+Stack: React Node.js Socket.IO MongoDB
+
+🌐 Personal Portfolio
+
+A modern developer portfolio designed to showcase projects, technical expertise and professional experience.
+
+Key Features
+
+🎨 Modern responsive UI
+
+📱 Mobile-first design
+
+🚀 Fast page performance
+
+🧩 Dynamic project sections
+
+📊 GitHub integration
+
+🌙 Modern visual system
+
+Stack: Next.js TypeScript Tailwind CSS
+
+🌐 Live: https://alamin4.vercel.app
+
+🏗️ What I Build
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=alaminislam34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=06B6D4&text_color=94A3B8&icon_color=7C3AED"
-height="180"
-alt="GitHub Statistics"
-/>
+🌐 Web Applications
+
+📊 Dashboards
+
+🔄 Real-Time Apps
+
+Scalable full-stack products
+
+Analytics & management systems
+
+Chat, notifications & live data
+
+🔐 Backend APIs
+
+💳 Business Systems
+
+☁️ Production Apps
+
+Secure REST APIs
+
+Payments & workflows
+
+Docker, CI/CD & cloud
+
+</div>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+📈 GitHub Overview
+
+<a href="https://github.com/alaminislam34">
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics" />
+</a>
+<a href="https://github.com/alaminislam34">
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+🔥 Contribution Streak
+
+<img src="./profile/streak.svg" width="75%" alt="Current and longest GitHub contribution streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+📈 Contribution Activity
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminislam34&layout=compact&hide_border=true&bg_color=00000000&title_color=06B6D4&text_color=94A3B8"
-height="180"
-alt="Top Languages"
+src="https://github-readme-activity-graph.vercel.app/graph?username=alaminislam34&bg_color=0F172A&color=06B6D4&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Contribution%20Activity"
+width="100%"
+alt="GitHub Contribution Activity"
 />
 
 </div>
@@ -325,35 +345,39 @@ alt="Top Languages"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=alaminislam34&hide_border=true&background=00000000&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B"
-width="70%"
-alt="GitHub Contribution Streak"
-/>
+🟩 Contribution Calendar
+
+<img src="./profile/contributions.svg" width="100%" alt="GitHub Contribution Calendar" />
 
 </div>
 
----
-
-## 📊 Contribution Activity
+🏆 GitHub Contribution Summary
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=alaminislam34&bg_color=00000000&color=06B6D4&line=7C3AED&point=06B6D4&area=true&hide_border=true"
-width="100%"
-alt="GitHub Contribution Graph"
-/>
+<table>
+<tr>
+<td align="center"><strong>📝 Total Contributions</strong><br />Tracked</td>
+<td align="center"><strong>💻 Commits</strong><br />Tracked</td>
+<td align="center"><strong>🔀 Pull Requests</strong><br />Tracked</td>
+<td align="center"><strong>🐛 Issues</strong><br />Tracked</td>
+</tr>
+<tr>
+<td align="center"><strong>👀 Reviews</strong><br />Tracked</td>
+<td align="center"><strong>🔥 Current Streak</strong><br />Tracked</td>
+<td align="center"><strong>🏆 Longest Streak</strong><br />Tracked</td>
+<td align="center"><strong>🟩 Calendar</strong><br />Tracked</td>
+</tr>
+</table>
 
 </div>
 
----
+Note: GitHub publicly exposes contributions, commits, pull requests, issues and reviews. A raw "number of pushes" is not a standard GitHub profile metric, so this profile tracks actual contribution activity instead of inventing a push count.
 
-# 🌱 Currently Learning & Exploring
+🌱 Currently Learning & Exploring
 
 <div align="center">
 
-```text
 ┌──────────────────────────────────────────────────────────────┐
 │                     CURRENT FOCUS                            │
 ├──────────────────────────────────────────────────────────────┤
@@ -368,89 +392,84 @@ alt="GitHub Contribution Graph"
 │  ▸ Software Architecture                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
----
+🧩 Development Principles
 
-# 🧩 Development Principles
-
-### 01 · Keep It Simple
+01 · Keep It Simple
 
 Complexity should be justified, not celebrated.
 
-### 02 · Build for Scale
+02 · Build for Scale
 
 Good architecture considers tomorrow without overengineering today.
 
-### 03 · Write Maintainable Code
+03 · Write Maintainable Code
 
 Readable code is easier to debug, test, review and improve.
 
-### 04 · User Experience Matters
+04 · User Experience Matters
 
 A technically impressive application is still a bad product if users hate using it.
 
-### 05 · Keep Learning
+05 · Keep Learning
 
 Technology changes constantly. Staying curious is part of the job.
 
----
+💼 Professional Focus
 
-# 💼 Professional Focus
+I'm particularly interested in building:
 
-I'm particularly interested in working on:
+SaaS platforms
 
-* SaaS platforms
-* Business management systems
-* FinTech & payment applications
-* Real-time applications
-* Data-driven dashboards
-* E-commerce platforms
-* AI-powered web applications
-* Developer tools
-* Scalable web products
+Business management systems
 
----
+FinTech & payment applications
 
-# 🤝 Let's Connect
+Real-time applications
+
+Data-driven dashboards
+
+E-commerce platforms
+
+AI-powered web applications
+
+Developer tools
+
+Scalable web products
+
+🤝 Let's Connect
 
 <div align="center">
 
-### Have an idea worth building?
+Have an idea worth building?
 
-**Let's turn it into a reliable product.**
+Let's turn it into a reliable product.
 
 <br />
 
 <a href="https://alamin4.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-06B6D4?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Portfolio" />
 </a>
-
 <a href="https://www.linkedin.com/in/alamin34/">
-<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
 </a>
-
 <a href="https://github.com/alaminislam34">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
 </a>
-
 <a href="https://www.facebook.com/ar.alamin34">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0F172A" alt="Facebook" />
 </a>
-
 <a href="https://www.hackerrank.com/alaminislam34">
-<img src="https://img.shields.io/badge/HackerRank-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/HackerRank-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0F172A" alt="HackerRank" />
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-### 💻 Code. Build. Improve. Repeat.
+💻 Code. Build. Improve. Repeat.
 
 <br />
 
